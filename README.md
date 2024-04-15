@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hey, I m <B>Thomas Agustin Luna</B> 👋👋👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+
 
 
 
